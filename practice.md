@@ -96,7 +96,7 @@ Make a change in your file and instantaneously see your updates!
 
 Open your favorite Terminal and run these commands.
 
-First Tab:
+First Tab
 
 ```sh
 node app
