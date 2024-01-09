@@ -1,0 +1,2 @@
+Er is defined as entity relational model which tells you the relations between the entities.
+Entity is nothing but a real world component or custom component.
