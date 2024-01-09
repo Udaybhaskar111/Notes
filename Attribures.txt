@@ -1,0 +1,2 @@
+these are the properties that define the entity.
+these can be composite or multivalued or derived.
